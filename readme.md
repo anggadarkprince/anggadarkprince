@@ -9,7 +9,7 @@
 <details>
   <summary>I'm currently working on a couple of things besides the professional working.</summary>
   <ul>
-    <li>Taking a React/Mobile/Software Architect Online Course, and looking forward to contribute to any open source project.</li>
+    <li>Currently (2021) taking a Mobile and Software Architect Online Course.</li>
     <li>Building personal project to solve my daily problem, as well as exercising my new knowledge.</li>
     <li>Writing programming tutorial about PHP, Javascript and web technologies.</li>
     <li>Research and adapting with new modern UX/UI.</li>
