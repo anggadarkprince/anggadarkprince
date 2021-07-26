@@ -7,7 +7,7 @@
 
 <h3>💼 Things that I'm currently working on:</h3>
 <details>
-  <summary>I'm currently working on a couple of things besides the professional working.</summary>
+  <summary>I'm currently working on a couple of things besides the professional working:</summary>
   <ul>
     <li>Currently (2021) taking a Mobile and Software Architect Online Course.</li>
     <li>Building personal project to solve my daily problem, as well as exercising my new knowledge.</li>
@@ -18,7 +18,7 @@
 
 ### 🔥 I’m currently challenging myself:
 <details>
-  <summary>Since I have my own family, wife and son, I manage my own time to keep up with new tools and technologies.</summary>
+  <summary>Since I have my own family, wife and son, I manage my own time to keep up with new tools and technologies:</summary>
   <ul>
     <li>Having quality time with family.</li>
     <li>Adopting the work-life balance and minimalism life style</li>
@@ -55,6 +55,6 @@
 
 ### 🚀 My Statistics
 
-<img height="175em" alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=anggadarkprince&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=radical"/>
+<img height="175em" alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=anggadarkprince&show_icons=true&count_private=true&include_all_commits=true&hide=contribs&hide_border=true&theme=radical"/>
 <img height="175em" alt="Github streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=anggadarkprince&theme=radical&hide_border=true"/>
-<img height="175em" alt="Github languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anggadarkprince&layout=compact&langs_count=10&hide_border=true&theme=radical"/>
+<img height="175em" alt="Github languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anggadarkprince&layout=compact&langs_count=6&hide_border=true&theme=radical"/>
